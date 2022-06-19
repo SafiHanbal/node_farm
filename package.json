@@ -1,0 +1,22 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "Learing node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafiHanbal/node_farm.git"
+  },
+  "author": "Safi Hanbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SafiHanbal/node_farm/issues"
+  },
+  "homepage": "https://github.com/SafiHanbal/node_farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
